@@ -1,0 +1,38 @@
+| Kode_barang | Nama Barang | Harga |
+| 1. | Minyak_Sayur | 27.000 |
+| 2. | Terigu | 8.000 |
+| 3. | Detergen_Daia | 10.000|
+Write (Kode_barang)
+Read (Kode_barang)
+Write (Jumlah)
+Read (Jumlah)
+If kode_barang = “1”
+    Nama Barang = (“Minyak Sayur”)
+    Harga = 27.000
+Else If kode_barang = “2”
+    Nama Barang = (“Terigu”)
+    Harga = 8.000
+Else If kode_barang = “3”
+    Nama Barang = (“Detergen Daia”)
+    Harga = 10.000
+Else
+    Write (“ kode yang dimasukkan salah, silahkan masukkan kembali”)
+End if
+    (status = benar)
+Write (“ masukkan 1 untuk membeli lagi, 2 untuk selesai”)
+Write (“pilihan”)
+Read (“pilihan”)
+If pilihan = 1
+    (status = salah)
+Else if = 2
+    (status = benar)
+Else
+    Write (“input data salah”)
+    Writeln (“masukkan 1 untuk membeli lagi, 2 untuk selesai”)
+    End if
+            (Status = benar)
+    Total Bayar = (1*harga(1) + 2*harga(2) +3*harga(3))
+    Writeln(nama barang) =
+    Writeln (jumlah barang) =
+    Writeln (bayar) =
+    Writeln (kembalian) =
